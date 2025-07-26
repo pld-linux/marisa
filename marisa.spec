@@ -23,7 +23,7 @@ Summary:	MARISA: Matching Algorithm with Recursively Implemented StorAge
 Summary(pl.UTF-8):	MARISA - algorytm dopasowywania z rekurencyjnie zaimplementowanym trzymaniem danych
 Name:		marisa
 Version:	0.2.6
-Release:	2
+Release:	3
 License:	BSD or LGPL v2.1+
 Group:		Libraries
 #Source0Download: https://github.com/s-yata/marisa-trie/releases
